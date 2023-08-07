@@ -77,6 +77,19 @@ export default function Home() {
           </li>
         </ul>
 
+        <h2 className="resources">✨ Bonus Exercises</h2>
+
+        <ul>
+          <li>
+            <Link href="/flex/5">💪 Flexbox - Create Navigation Bars</Link>
+          </li>
+          <li>
+            <Link href="/flex/6">
+              💪 Flexbox - Create Social Proof Sections
+            </Link>
+          </li>
+        </ul>
+
         <h2 className="resources">⭐️ Resources</h2>
 
         <h3>💪 The Flexible Box Layout</h3>
