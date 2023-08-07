@@ -7,7 +7,7 @@ const Exercise1 = () => {
       <h2>🕺🏻 Positioned Layout: Exercise 1</h2>
       <p>
         In this exercise, you will use CSS positioning to position the "Target"
-        element in the top right of the container. This f
+        element in the top right of the container.
       </p>
       <h3>Current Code</h3>
       <div className="ex-1-container">
